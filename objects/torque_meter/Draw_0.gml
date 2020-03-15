@@ -62,3 +62,4 @@ draw_text(x + 5, y + 60, "AGL Alt: " + string(player_helo.AGL_R));
 
 //DEBUG: Display IGE value
 draw_text(x + 5, y + 75, "IGE_value: " + string(player_helo.IGE_value));
+draw_text(x + 5, y + 90, "Angle: " + string(player_helo.image_angle));

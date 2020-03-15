@@ -274,6 +274,48 @@
             "value": "80",
             "varName": "ETL_effect",
             "varType": 0
+        },
+        {
+            "id": "a33e265e-3078-427b-b7f1-17cf59fef6bc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "-25",
+            "varName": "max_pitch_down",
+            "varType": 0
+        },
+        {
+            "id": "beaeb467-98eb-4677-a101-b5fb496fe1e9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "18",
+            "varName": "max_pitch_up",
+            "varType": 0
+        },
+        {
+            "id": "1228d884-9a65-4224-822e-41d86948c68a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "9",
+            "varName": "pitch_impulse",
+            "varType": 0
         }
     ],
     "solid": true,
