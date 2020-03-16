@@ -75,7 +75,7 @@
             "m_owner": "ae5c03b6-c0d9-485e-9c41-23460d9a9731"
         }
     ],
-    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "maskSpriteId": "519f9593-9cf0-488f-8bd9-da01a2807012",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -91,46 +91,39 @@
     "physicsShape": 2,
     "physicsShapePoints": [
         {
-            "id": "4bd0f86c-a836-476f-b5f5-7ec482209f83",
+            "id": "6745cf74-eb69-463a-8958-031fc87e3c29",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": -1.5,
-            "y": -0.5
+            "x": -0.5,
+            "y": 17.5
         },
         {
-            "id": "af805959-ecb2-4701-ba7c-b0fab6b48ea5",
+            "id": "9412ed34-dc90-4b3a-a98c-f5b41a436de3",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 2.5,
-            "y": -2.5
+            "x": 115.5,
+            "y": 22.5
         },
         {
-            "id": "6df1dabc-87f3-43f6-9cc1-67adb5d43b8e",
+            "id": "51f8d56a-9ee3-4300-bc99-5c6407ab36c2",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 98.5,
-            "y": 4.5
+            "x": 142.9,
+            "y": 54.6000061
         },
         {
-            "id": "6607fea7-81fe-4eba-b7b3-5bbfd6e6018c",
+            "id": "c316a385-22e4-4240-8f33-83fe5a945605",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 120.5,
-            "y": 26.5
+            "x": 113.5,
+            "y": 65.5
         },
         {
-            "id": "1c9cea6e-1fe0-47af-81b8-585aa204376e",
+            "id": "0ca04439-afdb-4bf8-8f60-b4c34f0c6a14",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 104.5,
-            "y": 44.5
-        },
-        {
-            "id": "b09eab23-9be0-41ec-afd0-1f5880fae36e",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 18.5,
-            "y": 43.5
+            "x": 20.5,
+            "y": 59.5
         }
     ],
     "physicsStartAwake": true,
